@@ -92,23 +92,6 @@ For each module, data is returned in a standard dictionary with the following js
 
 Rate limit? Change your IP.
 
-
-## Maltego Transform : [mail_scrapper Maltego](https://github.com/JENSLINJEMZ/mail_scrapper-maltego)
-
-## Thank you to :
-
-- [navlys](https://twitter.com/navlys_/)
-- [Chris](https://twitter.com/chris_kirsch)
-- [socialscan](https://pypi.org/project/socialscan/)
-- [UhOh365](https://github.com/Raikia/UhOh365)
-- [soxoj](https://github.com/soxoj)
-- [mxrch](https://github.com/mxrch) (and for the logo)
-- [novitae](https://github.com/novitae)
-
-## Donations
-
-For BTC Donations : 1FHDM49QfZX6pJmhjLE5tB2K6CaTLMZpXZ
-
 ## 📝 License
 
 [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.fr.html)
