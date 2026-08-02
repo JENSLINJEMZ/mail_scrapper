@@ -1,8 +1,3 @@
-# **mail_scrapper OSINT - Email to Registered Accounts**
-👋 Hi there! For any professional inquiries or collaborations, please reach out to me at:
-jenslin123@proton.me
-
-📧 Preferably, use your professional email for correspondence. Let's keep it short and sweet, and all in English!
 
 ![](https://files.catbox.moe/5we2ya.png)
 ![PyPI](https://img.shields.io/pypi/v/mail_scrapper) ![PyPI - Week](https://img.shields.io/pypi/dw/mail_scrapper) ![PyPI - Downloads](https://static.pepy.tech/badge/mail_scrapper) ![PyPI - License](https://img.shields.io/pypi/l/mail_scrapper)
