@@ -41,11 +41,11 @@ docker run my-mail_scrapper-image mail_scrapper test@gmail.com
 
 ## Quick Start
 
-mail_scrapper can be run from the CLI and rapidly embedded within existing python applications.
+mailscrapper can be run from the CLI and rapidly embedded within existing python applications.
 ### 📚 CLI Example
 
 ```bash
-mail_scrapper test@gmail.com
+mailscrapper test@gmail.com
 ```
 ### 📈 Python Example
 
