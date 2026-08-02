@@ -86,10 +86,6 @@ For each module, data is returned in a standard dictionary with the following js
 
 Rate limit? Change your IP.
 
-## 📝 License
-
-[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.fr.html)
-
 Built for educational purposes only.
 
 ## Modules
