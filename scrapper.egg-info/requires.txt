@@ -1,0 +1,7 @@
+termcolor
+beautifulsoup4
+requests
+httpx
+trio
+tqdm
+colorama

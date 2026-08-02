@@ -1,0 +1,2 @@
+[console_scripts]
+mailscrapper = holehe.core:main
