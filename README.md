@@ -1,51 +1,51 @@
-# **Holehe OSINT - Email to Registered Accounts**
+# **mail_scrapper OSINT - Email to Registered Accounts**
 👋 Hi there! For any professional inquiries or collaborations, please reach out to me at:
 jenslin123@proton.me
 
 📧 Preferably, use your professional email for correspondence. Let's keep it short and sweet, and all in English!
 
 ![](https://files.catbox.moe/5we2ya.png)
-![PyPI](https://img.shields.io/pypi/v/holehe) ![PyPI - Week](https://img.shields.io/pypi/dw/holehe) ![PyPI - Downloads](https://static.pepy.tech/badge/holehe) ![PyPI - License](https://img.shields.io/pypi/l/holehe)
+![PyPI](https://img.shields.io/pypi/v/mail_scrapper) ![PyPI - Week](https://img.shields.io/pypi/dw/mail_scrapper) ![PyPI - Downloads](https://static.pepy.tech/badge/mail_scrapper) ![PyPI - License](https://img.shields.io/pypi/l/mail_scrapper)
 
-# [Holehe Online Version](https://osint.industries/)
+# [mail_scrapper Online Version](https://osint.industries/)
 
 ## **Summary**
 
 *Efficiently finding registered accounts from emails.*
 
-Holehe checks if an email is attached to an account on sites like twitter, instagram, imgur and more than 120 others.
+mail_scrapper checks if an email is attached to an account on sites like twitter, instagram, imgur and more than 120 others.
 
 + Retrieves information using the forgotten password function.
-+ **[Does not alert the target email.](https://github.com/JENSLINJEMZ/holehe/issues/12)**
++ **[Does not alert the target email.](https://github.com/JENSLINJEMZ/mail_scrapper/issues/12)**
 + Runs on [Python 3](https://www.python.org/downloads/release/python-370/).
 ## 🛠️ Installation
 
 ### With PyPI
 
-```pip3 install holehe```
+```pip3 install mail_scrapper```
 
 ### With Github
 
 ```bash
-git clone https://github.com/JENSLINJEMZ/holehe.git
-cd holehe/
+git clone https://github.com/JENSLINJEMZ/mail_scrapper.git
+cd mail_scrapper/
 python3 setup.py install
 ```
 
 ### With Docker
 
 ```bash
-docker build . -t my-holehe-image
-docker run my-holehe-image holehe test@gmail.com
+docker build . -t my-mail_scrapper-image
+docker run my-mail_scrapper-image mail_scrapper test@gmail.com
 ```
 
 ## Quick Start
 
-Holehe can be run from the CLI and rapidly embedded within existing python applications.
+mail_scrapper can be run from the CLI and rapidly embedded within existing python applications.
 ### 📚 CLI Example
 
 ```bash
-holehe test@gmail.com
+mail_scrapper test@gmail.com
 ```
 ### 📈 Python Example
 
@@ -53,7 +53,7 @@ holehe test@gmail.com
 import trio
 import httpx
 
-from holehe.modules.social_media.snapchat import snapchat
+from mail_scrapper.modules.social_media.snapchat import snapchat
 
 
 async def main():
@@ -68,7 +68,7 @@ async def main():
 
 trio.run(main)
 ```
-![](https://github.com/JENSLINJEMZ/gif-demo/raw/master/holehe-demo.gif)
+![](https://github.com/JENSLINJEMZ/gif-demo/raw/master/mail_scrapper-demo.gif)
 ## Module Output
 
 For each module, data is returned in a standard dictionary with the following json-equivalent format :
@@ -93,7 +93,7 @@ For each module, data is returned in a standard dictionary with the following js
 Rate limit? Change your IP.
 
 
-## Maltego Transform : [Holehe Maltego](https://github.com/JENSLINJEMZ/holehe-maltego)
+## Maltego Transform : [mail_scrapper Maltego](https://github.com/JENSLINJEMZ/mail_scrapper-maltego)
 
 ## Thank you to :
 
