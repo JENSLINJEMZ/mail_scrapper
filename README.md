@@ -1,6 +1,5 @@
 
 ![](https://files.catbox.moe/5we2ya.png)
-![PyPI](https://img.shields.io/pypi/v/mail_scrapper) ![PyPI - Week](https://img.shields.io/pypi/dw/mail_scrapper) ![PyPI - Downloads](https://static.pepy.tech/badge/mail_scrapper) ![PyPI - License](https://img.shields.io/pypi/l/mail_scrapper)
 
 # [mail_scrapper Online Version](https://osint.industries/)
 
